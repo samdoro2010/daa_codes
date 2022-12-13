@@ -4,11 +4,11 @@
 
 [For Replit File CLICK HERE](https://replit.com/@V-KrishnaKrishn/DAA?v=1)
 
-## Daa Codes Replit file (NEOCOLAB)
+## Daa Codes Pdf file (NEOCOLAB)
 
 [For Replit File CLICK HERE]()
 
-## Cpp Codes Pdf file
+## Daa other Codes Pdf file
 [For Cpp PDF all codes CLICK HERE]()
 
 
